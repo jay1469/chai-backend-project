@@ -2,6 +2,7 @@
   "name": "chai-aur-beckend",
   "version": "1.0.0",
   "description": "a backend following the chai aur code channel on YouTube",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
